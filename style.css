@@ -7,11 +7,10 @@
   transform: translate(-50%, -50%);
 }
 
-.avenger {
-  width: 220px;
+img {
+  width: 220;
   height: 326px;
   margin: 25px;
-  box-sizing: border-box;
 }
 
 .detail {
