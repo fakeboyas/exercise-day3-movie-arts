@@ -1,0 +1,24 @@
+.container-one {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.avenger {
+  width: 220px;
+  height: 326px;
+  margin: 25px;
+  box-sizing: border-box;
+}
+
+.detail {
+  box-sizing: border-box;
+  margin: 25px;
+}
+
+.detail h3 {
+  text-align: center;
+}
