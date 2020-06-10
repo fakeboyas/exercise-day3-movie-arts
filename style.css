@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,200&display=swap");
+
 .container-one {
   display: flex;
   flex-direction: row;
@@ -16,8 +18,10 @@ img {
 .detail {
   box-sizing: border-box;
   margin: 25px;
+  font-family: "Work Sans", sans-serif;
 }
 
 .detail h3 {
   text-align: center;
+  font-family: "Work Sans", sans-serif;
 }
